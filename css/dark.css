@@ -1,0 +1,25 @@
+.dark {
+  background-image: linear-gradient(to right top, #560655, #520259, #4c005d, #460061, #3e0066, #390469, #33086c, #2c0c6f, #291171, #261673, #231974, #201d76);
+   }
+  .dark .page-home .overlay {
+    
+     }
+  .dark .page-title h2 {
+
+  }
+  .dark .page-title .title-bg {
+        color: rgb(70 88 124 / 10%);
+
+   caret-color:#262626; }
+  .dark .section-title h3::before {
+     }
+  .dark h1, .dark h2, .dark h3, .dark h4, .dark h5, .dark h6,
+  .dark .about-author .author-desc p {
+    color: #fff; }
+  .dark .service-hex .st0 {
+    fill: transparent; }
+  .dark .service-hex:hover .st0 {
+    fill: #fff; }
+  .dark .testimonials .text,
+  .dark .btn-border {
+    border-color: none }
